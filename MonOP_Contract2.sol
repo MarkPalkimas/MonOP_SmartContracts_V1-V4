@@ -2,10 +2,7 @@
 //version 2.5
 
 /*
-   _/﹋\_
    (҂`_´)
-   <,︻╦╤─ ҉ - -
-   _/﹋\_
 */
 
 // MonOp_Token_Contract.sol
